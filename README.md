@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatkoyuncu" alt="serhatkoyuncu" /> </p>
 
-<-- ## 📽 Projects
+## 📽 Projects
 <ul>
   <li><a href="https://django-weather-appv1.herokuapp.com/" target="_blank"> Django Basic Weather App </a></li>
   <li><a href="https://react-blogpage.herokuapp.com/" target="_blank"> React Blog Page </a></li>
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
   <li><a href="https://serhatkoyuncu.github.io/Find-the-number-game/" target="_blank"> Find The Number Game </a></li>
   <li><a href="https://serhatkoyuncu.github.io/Ios-Calculator/" target="_blank"> Ios Calculator </a></li>
 </ul>
--->
+
 ## 💻 Frontend
 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
+<a href="#" target="_blank"> <i class="fa-brands fa-html5"></i> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/200px-JQuery-Logo.svg.png" alt="jquery" height="60"/> </a>

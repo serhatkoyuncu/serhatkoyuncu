@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ## 💻 Frontend
 
 <a href="#" target="_blank"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png?utm_source=tr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="html" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/500px-CSS3_logo_and_wordmark.svg.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/200px-JQuery-Logo.svg.png" alt="jquery" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1920px-JQuery-Logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="jquery" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>

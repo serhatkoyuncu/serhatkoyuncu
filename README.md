@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 </p>
 <p align="left">
+  ![Serhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatkoyuncu&show_icons=true&theme=github_dark)
 <img src="https://github-readme-stats.vercel.app/api?username=serhatkoyuncu&theme=buefy" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhatkoyuncu&theme=buefy&" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatkoyuncu&theme=buefy &layout=compact" alt="languages" width="50%" > </p>

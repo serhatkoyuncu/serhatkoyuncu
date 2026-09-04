@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 💻 Frontend
 
-<a href="#" target="_blank"> <i class="fa-brands fa-html5"></i> </a>
+<a href="#" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png](https://tr.wikipedia.org/wiki/HTML5)" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/200px-JQuery-Logo.svg.png" alt="jquery" height="60"/> </a>
